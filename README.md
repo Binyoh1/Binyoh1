@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Binyoh1
+- 👋 Hi, I’m [@Binyoh1](https://github.com/Binyoh1)
 - 👀 I’m interested in Data Science and Web Development
 - 🌱 I’m currently improving my Data Analysis with Python skills (pandas, data visualization & exploration)
 - 💞️ I’m looking to collaborate on ...
