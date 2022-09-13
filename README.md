@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Analytics, Python and Energy projects.
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/binyoh-langhe-theodore-471b28162/)
-  - [Email](langhetheo@gmail.com)
+  - Email: langhetheo@gmail.com
   - [Medium](https://binyoh-langhe-theodore.medium.com/)
   - [Replit](https://replit.com/@Binyoh1)
   - Discord: Nimo16#9050
