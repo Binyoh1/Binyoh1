@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [Binyoh Langhe Theodore](https://github.com/Binyoh1)
-- 👀 I’m interested in Data Science, Web Development and Sustainable Energy
+- 👀 I’m interested in Data Science & Analytics, Web Development and Sustainable Energy
 - 🌱 I’m currently improving my Data Analysis with Python skills (pandas, data visualization & exploration) and learning SQL
 - 💞️ I’m looking to collaborate on Data Analytics, Python and Energy projects.
 - 📫 How to reach me: 
