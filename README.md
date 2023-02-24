@@ -1,7 +1,8 @@
 - 👋 Hi, I’m [Binyoh Langhe Theodore](https://github.com/Binyoh1)
 - 👀 I’m interested in Data Science & Analytics, Web Development and Sustainable Energy
-- 🌱 I’m currently improving my Data Analysis with Python skills (pandas, data visualization & exploration) and learning SQL
-- 💞️ I’m looking to collaborate on Data Analytics, Python and Energy projects.
+- 🌱 I currently use SQL, Excel, Tableau, and Power BI to obtain, transform, manipulate, and visualize meaningful insights in data
+- 💞️ I’m looking to collaborate on Data Analytics, Python, SQL and Energy projects that will challenge me and help me grow.
+- In my free time and when winding down, I enjoy listening to music, watching interesting videos about a wide variety of topics on YouTube, reading books, and playing video games.
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/binyoh-langhe-theodore-471b28162/)
   - Email: langhetheo@gmail.com
