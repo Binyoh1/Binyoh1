@@ -7,8 +7,8 @@
   - [LinkedIn](https://www.linkedin.com/in/binyoh-langhe-theodore-471b28162/)
   - Email: langhetheo@gmail.com
   - [Medium](https://medium.com/@Binyoh)
+  - [Tableau Public](https://public.tableau.com/app/profile/binyoh.langhe.theodore/vizzes)
   - [Replit](https://replit.com/@Binyoh1)
-  - Discord: Nimo16#9050
 
 <!---
 Binyoh1/Binyoh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
